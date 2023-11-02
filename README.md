@@ -9,4 +9,3 @@ Accomplished tasks :
 
 Results and Impact:
 Thanks to this in-depth analysis, the company manager now has a clear understanding of his company's performance. He can make informed decisions, such as allocating resources to top-performing regions, optimizing sales of specific products, and rewarding top performers.
- main
